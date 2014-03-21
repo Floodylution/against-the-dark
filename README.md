@@ -1,4 +1,4 @@
-against-the-dark
+Against The Dark - Changelog
 ================
 
-Changelogs für die Server von Against-The-Dark
+no changelog yet

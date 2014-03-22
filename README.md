@@ -8,12 +8,12 @@ Server AGTD #1 - Jail:
   - Tags von allen Plugins angepasst
   - CT Ban hinzugefügt
   
-Kommende Features:
+<b>Kommende Features:</b>
 
-Server AGTD #1 - Jail:
+<small>Server AGTD #1 - Jail:
   - neue Maps
   - Mapchooser Extended
 
 Server AGTD #2 - Surf:
   - Rank-System
-  - permanent 16k $
+  - permanent 16k $</small>

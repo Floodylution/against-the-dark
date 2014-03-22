@@ -8,6 +8,6 @@ Changelog von Server AGTD #1 am 22/03/2014 um 0200:
   - CT Ban hinzugefügt
   
   Kommende Features:
-    ETA: /
-    - neue Maps
-    - Mapchooser Extended
+  ETA: /
+  - neue Maps
+  - Mapchooser Extended

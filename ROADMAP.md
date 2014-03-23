@@ -9,3 +9,14 @@ Against The Dark - Roadmap
   - Tags anpassen, auf neue Farbe umstellen
   - permanent 16k Geld$
   - Rank-System hinzufügen und anpassen
+
+Roadmap CT Leader
+=
+geplannte Features:
+  - kann Ergeben annehmen
+  - eigener Skin (fertig, nurnoch anderer CT Skin hinzufügen
+  - spawnt mit Equipment (wie M4, Blend-, Rauchgranate, etc.)
+  - mehr?
+
+bekannte Bugs:
+  - keine

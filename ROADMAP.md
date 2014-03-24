@@ -10,7 +10,7 @@ Against The Dark - Roadmap
   - permanent 16k Geld$
   - Rank-System hinzufügen und anpassen
 
-Roadmap CT Leader
+Roadmap CT Leader (eingestellt)
 =
 geplannte Features:
   - kann Ergeben annehmen
@@ -20,3 +20,14 @@ geplannte Features:
 
 bekannte Bugs:
   - keine
+
+Roadmap War
+=
+geplannte Features:
+  - Abstimmung über den War-Typ
+  - War-Typen:
+    - Normal
+    - Fun
+    - Noscope
+    - Knife Fight
+    - Dodgeball
